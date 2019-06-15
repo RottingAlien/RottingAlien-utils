@@ -15,5 +15,4 @@ hs_err_pid*
 #.class files
 *.class
 
-#.html
-*.html
+/javadoc
