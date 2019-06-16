@@ -7,9 +7,9 @@ import java.io.OutputStream;
 public class InPutStream {
 
     /**
-     * Closes FileWriter File
+     * Closes FileWriter Stream
      *
-     * @param inputStream FileWriter File to close.
+     * @param inputStream FileWriter Stream to close.
      */
     public static void closeInPutStream(InputStream inputStream) {
         try {

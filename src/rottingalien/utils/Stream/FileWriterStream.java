@@ -6,9 +6,9 @@ import java.io.IOException;
 public class FileWriterStream {
 
     /**
-     * Closes FileWriter File
+     * Closes FileWriter Stream
      *
-     * @param fileWriter FileWriter File to close.
+     * @param fileWriter FileWriter Stream to close.
      */
     public static void closeFileWriter(FileWriter fileWriter) {
         try {

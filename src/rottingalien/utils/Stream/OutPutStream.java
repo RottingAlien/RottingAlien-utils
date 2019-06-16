@@ -6,9 +6,9 @@ import java.io.OutputStream;
 public class OutPutStream {
 
     /**
-     * Closes FileWriter File
+     * Closes FileWriter Stream
      *
-     * @param outputStream FileWriter File to close.
+     * @param outputStream FileWriter Stream to close.
      */
     public static void closeOutPutStream(OutputStream outputStream) {
         try {

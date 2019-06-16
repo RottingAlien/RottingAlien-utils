@@ -6,9 +6,9 @@ import java.io.IOException;
 public class FileReaderStream {
 
     /**
-     * Closes FileReader File
+     * Closes FileReader Stream
      *
-     * @param fileReader FileReader File to close.
+     * @param fileReader FileReader Stream to close.
      */
     public static void closeFileReader(FileReader fileReader) {
         try {
