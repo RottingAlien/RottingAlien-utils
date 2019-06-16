@@ -5,9 +5,9 @@ import java.io.*;
 public class Stream {
 
     /**
-     * Closes FileReader File
+     * Closes FileReader Stream
      *
-     * @param fileReader FileReader File to close.
+     * @param fileReader FileReader Stream to close.
      */
     public static void closeFileReader(FileReader fileReader) {
         try {
@@ -19,9 +19,9 @@ public class Stream {
 
 
     /**
-     * Closes FileWriter File
+     * Closes FileWriter Stream
      *
-     * @param fileWriter FileWriter File to close.
+     * @param fileWriter FileWriter Stream to close.
      */
     public static void closeFileWriter(FileWriter fileWriter) {
         try {
@@ -33,9 +33,9 @@ public class Stream {
 
 
     /**
-     * Closes FileWriter File
+     * Closes FileWriter Stream
      *
-     * @param inputStream FileWriter File to close.
+     * @param inputStream FileWriter Stream to close.
      */
     public static void closeInPutStream(InputStream inputStream) {
         try {
@@ -47,9 +47,9 @@ public class Stream {
 
 
     /**
-     * Closes FileWriter File
+     * Closes FileWriter Stream
      *
-     * @param outputStream FileWriter File to close.
+     * @param outputStream FileWriter Stream to close.
      */
     public static void closeOutPutStream(OutputStream outputStream) {
         try {
