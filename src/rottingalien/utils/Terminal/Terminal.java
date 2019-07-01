@@ -12,6 +12,8 @@ public class Terminal {
      */
     public static void clearScreen() {
 
+        final String clearString="\033[H\033[2J";
+
         if (OS.isWindows()) {
 
             try {
@@ -19,13 +21,10 @@ public class Terminal {
             } catch (InterruptedException | IOException e) {
                 e.printStackTrace();
             }
-        } else {
-            try {
-                Runtime.getRuntime().exec("clear");
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
 
+        } else {
+            System.out.print(clearString);
+            System.out.flush();
         }
 
     }
