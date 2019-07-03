@@ -1,7 +1,7 @@
-rottingalien/utils/Stream/Stream.class
-rottingalien/utils/OS/OS.class
-rottingalien/utils/Main.class
-rottingalien/utils/Probability/Probability.class
-rottingalien/utils/Random/Random.class
-rottingalien/utils/Stream/Byte.class
-rottingalien/utils/Terminal/Terminal.class
+rottingalien\utils\Random\Random.class
+rottingalien\utils\Terminal\Terminal.class
+rottingalien\utils\Main.class
+rottingalien\utils\OS\OS.class
+rottingalien\utils\Probability\Probability.class
+rottingalien\utils\Stream\Byte.class
+rottingalien\utils\Stream\Stream.class
