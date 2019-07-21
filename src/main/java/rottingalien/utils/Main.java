@@ -1,6 +1,6 @@
 package rottingalien.utils;
 
-
+import rottingalien.utils.Maths.FindMidValues;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package rottingalien.utils.Probability;
-
-import rottingalien.utils.Random.Random;
+package rottingalien.utils.Maths;
 
 public class Probability {
 

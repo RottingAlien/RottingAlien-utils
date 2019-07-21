@@ -1,4 +1,4 @@
-package rottingalien.utils.Random;
+package rottingalien.utils.Maths;
 
 public class Random {
 
