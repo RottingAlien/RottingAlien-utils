@@ -15,6 +15,9 @@ hs_err_pid*
 #.class files
 *.class
 
+#.jar files
+*.jar
+
 /javadoc
 
 /META-INF
